@@ -1,4 +1,4 @@
-# Hometown Homepage
+# Hometown Homepage (Sana'a)
 
 This project is part of the Scrimba Frontend Web Development Path. The homepage is dedicated to showcasing the beauty, history, and culture of Sana'a City, the capital of Yemen.
 
